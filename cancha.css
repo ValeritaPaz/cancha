@@ -1,0 +1,67 @@
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+.cancha {
+	background-color: #76956D;
+	width: 1000px;
+	height: 500px;
+	margin: 0 auto;
+	position: relative;
+}
+.borde {
+	border: 5px solid white;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	right: 10px;
+	bottom: 10px;
+}
+.arco1 {
+	border: 5px solid white;
+	width: 100px;
+	height: 200px;
+	position: absolute;
+	top: 150px;
+	left: 10px;
+}
+.arco2 {
+	border: 5px solid white;
+	width: 100px;
+	height: 200px;
+	position: absolute;
+	top: 150px;
+	right: 10px;
+}
+.circulo {
+	width: 150px;
+     height: 150px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border: 5px solid white;
+     position: absolute;
+     left: 430px;
+     top: 150px;
+}
+.pelota1 {
+	font-size: 30px;
+	color: white;
+	position: absolute;
+	top: 150px;
+	left: 90px;
+}
+.pelota2 {
+	font-size: 30px;
+	color: white;
+	position: absolute;
+	top: 90px;
+	left: 530px;
+}
+.pelota3 {
+	font-size: 30px;
+	color: white;
+	position: absolute;
+	top: 310px;
+	left: 840px;
+}
